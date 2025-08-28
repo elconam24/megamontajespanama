@@ -1,0 +1,958 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+
+<title>Mega Montajes</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Mega Montajes &raquo; Feed" href="https://megamontajespanama.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Mega Montajes &raquo; Feed de los comentarios" href="https://megamontajespanama.com/comments/feed/" />
+		<script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/megamontajespanama.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.9"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='astra-theme-css-css'  href='https://megamontajespanama.com/wp-content/themes/astra/assets/css/minified/style.min.css?ver=2.6.0' media='all' />
+<style id='astra-theme-css-inline-css'>
+html{font-size:112.5%;}a,.page-title{color:#181e19;}a:hover,a:focus{color:#56b259;}body,button,input,select,textarea,.ast-button,.ast-custom-button{font-family:Verdana,Helvetica,Arial,sans-serif;font-weight:400;font-size:18px;font-size:1rem;}blockquote{color:#141e14;}p,.entry-content p{margin-bottom:1em;}h1,.entry-content h1,h2,.entry-content h2,h3,.entry-content h3,h4,.entry-content h4,h5,.entry-content h5,h6,.entry-content h6,.site-title,.site-title a{font-family:'Poppins',sans-serif;font-weight:600;text-transform:capitalize;}.site-title{font-size:35px;font-size:1.9444444444444rem;}header .site-logo-img .custom-logo-link img{max-width:300px;}.astra-logo-svg{width:300px;}.ast-archive-description .ast-archive-title{font-size:40px;font-size:2.2222222222222rem;}.site-header .site-description{font-size:15px;font-size:0.83333333333333rem;}.entry-title{font-size:40px;font-size:2.2222222222222rem;}.comment-reply-title{font-size:29px;font-size:1.6111111111111rem;}.ast-comment-list #cancel-comment-reply-link{font-size:18px;font-size:1rem;}h1,.entry-content h1{font-size:64px;font-size:3.5555555555556rem;font-family:'Poppins',sans-serif;line-height:1.1;text-transform:capitalize;}h2,.entry-content h2{font-size:40px;font-size:2.2222222222222rem;font-family:'Poppins',sans-serif;line-height:1.1;text-transform:capitalize;}h3,.entry-content h3{font-size:24px;font-size:1.3333333333333rem;font-family:'Poppins',sans-serif;line-height:1.1;text-transform:capitalize;}h4,.entry-content h4{font-size:20px;font-size:1.1111111111111rem;line-height:1.1;}h5,.entry-content h5{font-size:16px;font-size:0.88888888888889rem;line-height:1.1;}h6,.entry-content h6{font-size:12px;font-size:0.66666666666667rem;line-height:1.1;}.ast-single-post .entry-title,.page-title{font-size:30px;font-size:1.6666666666667rem;}#secondary,#secondary button,#secondary input,#secondary select,#secondary textarea{font-size:18px;font-size:1rem;}::selection{background-color:#56b259;color:#000000;}body,h1,.entry-title a,.entry-content h1,h2,.entry-content h2,h3,.entry-content h3,h4,.entry-content h4,h5,.entry-content h5,h6,.entry-content h6,.wc-block-grid__product-title{color:#5f695f;}.tagcloud a:hover,.tagcloud a:focus,.tagcloud a.current-item{color:#ffffff;border-color:#181e19;background-color:#181e19;}.main-header-menu .menu-link,.ast-header-custom-item a{color:#5f695f;}.main-header-menu .menu-item:hover > .menu-link,.main-header-menu .menu-item:hover > .ast-menu-toggle,.main-header-menu .ast-masthead-custom-menu-items a:hover,.main-header-menu .menu-item.focus > .menu-link,.main-header-menu .menu-item.focus > .ast-menu-toggle,.main-header-menu .current-menu-item > .menu-link,.main-header-menu .current-menu-ancestor > .menu-link,.main-header-menu .current-menu-item > .ast-menu-toggle,.main-header-menu .current-menu-ancestor > .ast-menu-toggle{color:#181e19;}input:focus,input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="reset"]:focus,input[type="search"]:focus,textarea:focus{border-color:#181e19;}input[type="radio"]:checked,input[type=reset],input[type="checkbox"]:checked,input[type="checkbox"]:hover:checked,input[type="checkbox"]:focus:checked,input[type=range]::-webkit-slider-thumb{border-color:#181e19;background-color:#181e19;box-shadow:none;}.site-footer a:hover + .post-count,.site-footer a:focus + .post-count{background:#181e19;border-color:#181e19;}.ast-small-footer > .ast-footer-overlay{background-color:#000000;;}.ast-small-footer a:hover{color:#6590ce;}.footer-adv .footer-adv-overlay{border-top-style:solid;border-top-color:#7a7a7a;}.ast-comment-meta{line-height:1.666666667;font-size:15px;font-size:0.83333333333333rem;}.single .nav-links .nav-previous,.single .nav-links .nav-next,.single .ast-author-details .author-title,.ast-comment-meta{color:#181e19;}.entry-meta,.entry-meta *{line-height:1.45;color:#181e19;}.entry-meta a:hover,.entry-meta a:hover *,.entry-meta a:focus,.entry-meta a:focus *{color:#56b259;}.ast-404-layout-1 .ast-404-text{font-size:200px;font-size:11.111111111111rem;}.widget-title{font-size:25px;font-size:1.3888888888889rem;color:#5f695f;}#cat option,.secondary .calendar_wrap thead a,.secondary .calendar_wrap thead a:visited{color:#181e19;}.secondary .calendar_wrap #today,.ast-progress-val span{background:#181e19;}.secondary a:hover + .post-count,.secondary a:focus + .post-count{background:#181e19;border-color:#181e19;}.calendar_wrap #today > a{color:#ffffff;}.ast-pagination a,.page-links .page-link,.single .post-navigation a{color:#181e19;}.ast-pagination a:hover,.ast-pagination a:focus,.ast-pagination > span:hover:not(.dots),.ast-pagination > span.current,.page-links > .page-link,.page-links .page-link:hover,.post-navigation a:hover{color:#56b259;}.ast-header-break-point .ast-mobile-menu-buttons-minimal.menu-toggle{background:transparent;color:#56b259;}.ast-header-break-point .ast-mobile-menu-buttons-outline.menu-toggle{background:transparent;border:1px solid #56b259;color:#56b259;}.ast-header-break-point .ast-mobile-menu-buttons-fill.menu-toggle{background:#56b259;color:#000000;}@media (min-width:1200px){.ast-separate-container.ast-right-sidebar .entry-content .wp-block-image.alignfull,.ast-separate-container.ast-left-sidebar .entry-content .wp-block-image.alignfull,.ast-separate-container.ast-right-sidebar .entry-content .wp-block-cover.alignfull,.ast-separate-container.ast-left-sidebar .entry-content .wp-block-cover.alignfull{margin-left:-6.67em;margin-right:-6.67em;max-width:unset;width:unset;}.ast-separate-container.ast-right-sidebar .entry-content .wp-block-image.alignwide,.ast-separate-container.ast-left-sidebar .entry-content .wp-block-image.alignwide,.ast-separate-container.ast-right-sidebar .entry-content .wp-block-cover.alignwide,.ast-separate-container.ast-left-sidebar .entry-content .wp-block-cover.alignwide{margin-left:-20px;margin-right:-20px;max-width:unset;width:unset;}.wp-block-group .has-background{padding:20px;}}@media (min-width:1200px){.ast-separate-container.ast-right-sidebar .entry-content .wp-block-group.alignwide,.ast-separate-container.ast-left-sidebar .entry-content .wp-block-group.alignwide,.ast-separate-container.ast-right-sidebar .entry-content .wp-block-cover.alignwide,.ast-separate-container.ast-left-sidebar .entry-content .wp-block-cover.alignwide,.ast-no-sidebar.ast-separate-container .entry-content .wp-block-group.alignwide,.ast-no-sidebar.ast-separate-container .entry-content .wp-block-cover.alignwide{margin-left:-20px;margin-right:-20px;padding-left:20px;padding-right:20px;}.ast-separate-container.ast-right-sidebar .entry-content .wp-block-group.alignfull,.ast-separate-container.ast-left-sidebar .entry-content .wp-block-group.alignfull,.ast-no-sidebar.ast-separate-container .entry-content .wp-block-group.alignfull,.ast-separate-container.ast-right-sidebar .entry-content .wp-block-cover.alignfull,.ast-separate-container.ast-left-sidebar .entry-content .wp-block-cover.alignfull,.ast-no-sidebar.ast-separate-container .entry-content .wp-block-cover.alignfull{margin-left:-6.67em;margin-right:-6.67em;padding-left:6.67em;padding-right:6.67em;}.ast-plain-container.ast-right-sidebar .entry-content .wp-block-group.alignwide,.ast-plain-container.ast-left-sidebar .entry-content .wp-block-group.alignwide,.ast-plain-container.ast-right-sidebar .entry-content .wp-block-group.alignfull,.ast-plain-container.ast-left-sidebar .entry-content .wp-block-group.alignfull{padding-left:20px;padding-right:20px;}.ast-plain-container.ast-no-sidebar .entry-content .alignwide .wp-block-group__inner-container,.ast-plain-container.ast-no-sidebar .entry-content .alignfull .wp-block-group__inner-container,.ast-plain-container.ast-no-sidebar .entry-content .alignwide .wp-block-cover__inner-container,.ast-plain-container.ast-no-sidebar .entry-content .alignfull .wp-block-cover__inner-container{max-width:1240px;margin-left:auto;margin-right:auto;padding-left:20px;padding-right:20px;}.ast-page-builder-template.ast-no-sidebar .entry-content .wp-block-group.alignwide,.ast-page-builder-template.ast-no-sidebar .entry-content .wp-block-group.alignfull{margin-left:0;margin-right:0;}.wp-block-cover-image.alignwide .wp-block-cover__inner-container,.wp-block-cover.alignwide .wp-block-cover__inner-container,.wp-block-cover-image.alignfull .wp-block-cover__inner-container,.wp-block-cover.alignfull .wp-block-cover__inner-container{width:100%;}.ast-page-builder-template.ast-no-sidebar .entry-content .wp-block-cover.alignwide,.ast-page-builder-template.ast-left-sidebar .entry-content .wp-block-cover.alignwide,.ast-page-builder-template.ast-right-sidebar .entry-content .wp-block-cover.alignwide,.ast-page-builder-template.ast-no-sidebar .entry-content .wp-block-cover.alignfull,.ast-page-builder-template.ast-left-sidebar .entry-content .wp-block-cover.alignfull,.ast-page-builder-template.ast-right-sidebar .entry-content .wp-block-cover.alignful{padding-right:0;padding-left:0;}}@media (max-width:921px){#secondary.secondary{padding-top:0;}.ast-separate-container .ast-article-post,.ast-separate-container .ast-article-single{padding:1.5em 2.14em;}.ast-separate-container #primary,.ast-separate-container #secondary{padding:1.5em 0;}.ast-separate-container.ast-right-sidebar #secondary{padding-left:1em;padding-right:1em;}.ast-separate-container.ast-two-container #secondary{padding-left:0;padding-right:0;}.ast-page-builder-template .entry-header #secondary{margin-top:1.5em;}.ast-page-builder-template #secondary{margin-top:1.5em;}#primary,#secondary{padding:1.5em 0;margin:0;}.ast-left-sidebar #content > .ast-container{display:flex;flex-direction:column-reverse;width:100%;}.ast-author-box img.avatar{margin:20px 0 0 0;}.ast-pagination{padding-top:1.5em;text-align:center;}.ast-pagination .next.page-numbers{display:inherit;float:none;}}@media (max-width:921px){.ast-page-builder-template.ast-left-sidebar #secondary{padding-right:20px;}.ast-page-builder-template.ast-right-sidebar #secondary{padding-left:20px;}.ast-right-sidebar #primary{padding-right:0;}.ast-right-sidebar #secondary{padding-left:0;}.ast-left-sidebar #primary{padding-left:0;}.ast-left-sidebar #secondary{padding-right:0;}.ast-pagination .prev.page-numbers{padding-left:.5em;}.ast-pagination .next.page-numbers{padding-right:.5em;}}@media (min-width:922px){.ast-separate-container.ast-right-sidebar #primary,.ast-separate-container.ast-left-sidebar #primary{border:0;}.ast-separate-container.ast-right-sidebar #secondary,.ast-separate-container.ast-left-sidebar #secondary{border:0;margin-left:auto;margin-right:auto;}.ast-separate-container.ast-two-container #secondary .widget:last-child{margin-bottom:0;}.ast-separate-container .ast-comment-list li .comment-respond{padding-left:2.66666em;padding-right:2.66666em;}.ast-author-box{-js-display:flex;display:flex;}.ast-author-bio{flex:1;}.error404.ast-separate-container #primary,.search-no-results.ast-separate-container #primary{margin-bottom:4em;}}@media (min-width:922px){.ast-right-sidebar #primary{border-right:1px solid #eee;}.ast-right-sidebar #secondary{border-left:1px solid #eee;margin-left:-1px;}.ast-left-sidebar #primary{border-left:1px solid #eee;}.ast-left-sidebar #secondary{border-right:1px solid #eee;margin-right:-1px;}.ast-separate-container.ast-two-container.ast-right-sidebar #secondary{padding-left:30px;padding-right:0;}.ast-separate-container.ast-two-container.ast-left-sidebar #secondary{padding-right:30px;padding-left:0;}}.elementor-button-wrapper .elementor-button{border-style:solid;border-top-width:1px;border-right-width:1px;border-left-width:1px;border-bottom-width:1px;}body .elementor-button.elementor-size-sm,body .elementor-button.elementor-size-xs,body .elementor-button.elementor-size-md,body .elementor-button.elementor-size-lg,body .elementor-button.elementor-size-xl,body .elementor-button{border-radius:8px;padding-top:16px;padding-right:24px;padding-bottom:16px;padding-left:24px;}.elementor-button-wrapper .elementor-button{border-color:#56b259;background-color:rgba(86,178,89,0);}.elementor-button-wrapper .elementor-button:hover,.elementor-button-wrapper .elementor-button:focus{color:#ffffff;background-color:#56b259;border-color:#56b259;}.wp-block-button .wp-block-button__link,.elementor-button-wrapper .elementor-button,.elementor-button-wrapper .elementor-button:visited{color:#56b259;}.elementor-button-wrapper .elementor-button{font-family:'Poppins',sans-serif;font-weight:600;line-height:1;text-transform:capitalize;letter-spacing:0.5px;}body .elementor-button.elementor-size-sm,body .elementor-button.elementor-size-xs,body .elementor-button.elementor-size-md,body .elementor-button.elementor-size-lg,body .elementor-button.elementor-size-xl,body .elementor-button{font-size:14px;font-size:0.77777777777778rem;}.wp-block-button .wp-block-button__link{border-style:solid;border-top-width:1px;border-right-width:1px;border-left-width:1px;border-bottom-width:1px;border-color:#56b259;background-color:rgba(86,178,89,0);color:#56b259;font-family:'Poppins',sans-serif;font-weight:600;line-height:1;text-transform:capitalize;letter-spacing:0.5px;font-size:14px;font-size:0.77777777777778rem;border-radius:8px;padding-top:16px;padding-right:24px;padding-bottom:16px;padding-left:24px;}.wp-block-button .wp-block-button__link:hover,.wp-block-button .wp-block-button__link:focus{color:#ffffff;background-color:#56b259;border-color:#56b259;}.elementor-widget-heading h1.elementor-heading-title{line-height:1.1;}.elementor-widget-heading h2.elementor-heading-title{line-height:1.1;}.elementor-widget-heading h3.elementor-heading-title{line-height:1.1;}.elementor-widget-heading h4.elementor-heading-title{line-height:1.1;}.elementor-widget-heading h5.elementor-heading-title{line-height:1.1;}.elementor-widget-heading h6.elementor-heading-title{line-height:1.1;}.menu-toggle,button,.ast-button,.ast-custom-button,.button,input#submit,input[type="button"],input[type="submit"],input[type="reset"]{border-style:solid;border-top-width:1px;border-right-width:1px;border-left-width:1px;border-bottom-width:1px;color:#56b259;border-color:#56b259;background-color:rgba(86,178,89,0);border-radius:8px;padding-top:16px;padding-right:24px;padding-bottom:16px;padding-left:24px;font-family:'Poppins',sans-serif;font-weight:600;font-size:14px;font-size:0.77777777777778rem;line-height:1;text-transform:capitalize;letter-spacing:0.5px;}button:focus,.menu-toggle:hover,button:hover,.ast-button:hover,.button:hover,input[type=reset]:hover,input[type=reset]:focus,input#submit:hover,input#submit:focus,input[type="button"]:hover,input[type="button"]:focus,input[type="submit"]:hover,input[type="submit"]:focus{color:#ffffff;background-color:#56b259;border-color:#56b259;}@media (min-width:921px){.ast-container{max-width:100%;}}@media (min-width:544px){.ast-container{max-width:100%;}}@media (max-width:544px){.ast-separate-container .ast-article-post,.ast-separate-container .ast-article-single{padding:1.5em 1em;}.ast-separate-container #content .ast-container{padding-left:0.54em;padding-right:0.54em;}.ast-separate-container #secondary{padding-top:0;}.ast-separate-container.ast-two-container #secondary .widget{margin-bottom:1.5em;padding-left:1em;padding-right:1em;}.ast-separate-container .comments-count-wrapper{padding:1.5em 1em;}.ast-separate-container .ast-comment-list li.depth-1{padding:1.5em 1em;margin-bottom:1.5em;}.ast-separate-container .ast-comment-list .bypostauthor{padding:.5em;}.ast-separate-container .ast-archive-description{padding:1.5em 1em;}.ast-search-menu-icon.ast-dropdown-active .search-field{width:170px;}.ast-separate-container .comment-respond{padding:1.5em 1em;}}@media (max-width:544px){.ast-comment-list .children{margin-left:0.66666em;}.ast-separate-container .ast-comment-list .bypostauthor li{padding:0 0 0 .5em;}}@media (max-width:921px){.ast-mobile-header-stack .main-header-bar .ast-search-menu-icon{display:inline-block;}.ast-header-break-point.ast-header-custom-item-outside .ast-mobile-header-stack .main-header-bar .ast-search-icon{margin:0;}.ast-comment-avatar-wrap img{max-width:2.5em;}.comments-area{margin-top:1.5em;}.ast-separate-container .comments-count-wrapper{padding:2em 2.14em;}.ast-separate-container .ast-comment-list li.depth-1{padding:1.5em 2.14em;}.ast-separate-container .comment-respond{padding:2em 2.14em;}}@media (max-width:921px){.ast-header-break-point .main-header-bar .ast-search-menu-icon.slide-search .search-form{right:0;}.ast-header-break-point .ast-mobile-header-stack .main-header-bar .ast-search-menu-icon.slide-search .search-form{right:-1em;}.ast-comment-avatar-wrap{margin-right:0.5em;}}.main-header-bar .button-custom-menu-item .ast-custom-button-link .ast-custom-button,.ast-theme-transparent-header .main-header-bar .button-custom-menu-item .ast-custom-button-link .ast-custom-button{font-family:'Poppins',sans-serif;font-weight:600;font-size:22px;font-size:1.2222222222222rem;line-height:1;}.main-header-bar .button-custom-menu-item .ast-custom-button-link .ast-custom-button{border-style:solid;border-top-width:0px;border-right-width:0px;border-left-width:0px;border-bottom-width:0px;}.main-header-bar .button-custom-menu-item .ast-custom-button-link .ast-custom-button:hover{color:#ffffff;}.ast-theme-transparent-header .main-header-bar .button-custom-menu-item .ast-custom-button-link .ast-custom-button{border-style:solid;}@media (min-width:545px){.ast-page-builder-template .comments-area,.single.ast-page-builder-template .entry-header,.single.ast-page-builder-template .post-navigation{max-width:1240px;margin-left:auto;margin-right:auto;}}@media (max-width:921px){.ast-archive-description .ast-archive-title{font-size:40px;}.entry-title{font-size:30px;}h1,.entry-content h1{font-size:56px;}h2,.entry-content h2{font-size:32px;}h3,.entry-content h3{font-size:24px;}h4,.entry-content h4{font-size:20px;font-size:1.1111111111111rem;}h5,.entry-content h5{font-size:16px;font-size:0.88888888888889rem;}h6,.entry-content h6{font-size:12px;font-size:0.66666666666667rem;}.ast-single-post .entry-title,.page-title{font-size:30px;}#masthead .site-logo-img .custom-logo-link img{max-width:150px;}.astra-logo-svg{width:150px;}.ast-header-break-point .site-logo-img .custom-mobile-logo-link img{max-width:150px;}}@media (max-width:544px){.ast-archive-description .ast-archive-title{font-size:40px;}.entry-title{font-size:30px;}h1,.entry-content h1{font-size:36px;}h2,.entry-content h2{font-size:26px;}h3,.entry-content h3{font-size:20px;}h4,.entry-content h4{font-size:18px;font-size:1rem;}h5,.entry-content h5{font-size:14px;font-size:0.77777777777778rem;}h6,.entry-content h6{font-size:12px;font-size:0.66666666666667rem;}.ast-single-post .entry-title,.page-title{font-size:30px;}}@media (max-width:921px){html{font-size:102.6%;}}@media (max-width:544px){html{font-size:102.6%;}}@media (min-width:922px){.ast-container{max-width:1240px;}}@font-face {font-family: "Astra";src: url(https://megamontajespanama.com/wp-content/themes/astra/assets/fonts/astra.woff) format("woff"),url(https://megamontajespanama.com/wp-content/themes/astra/assets/fonts/astra.ttf) format("truetype"),url(https://megamontajespanama.com/wp-content/themes/astra/assets/fonts/astra.svg#astra) format("svg");font-weight: normal;font-style: normal;font-display: fallback;}@media (max-width:921px) {.main-header-bar .main-header-bar-navigation{display:none;}}.ast-desktop .main-header-menu.submenu-with-border .sub-menu,.ast-desktop .main-header-menu.submenu-with-border .astra-full-megamenu-wrapper{border-color:#56b259;}.ast-desktop .main-header-menu.submenu-with-border .sub-menu{border-top-width:2px;border-right-width:0px;border-left-width:0px;border-bottom-width:0px;border-style:solid;}.ast-desktop .main-header-menu.submenu-with-border .sub-menu .sub-menu{top:-2px;}.ast-desktop .main-header-menu.submenu-with-border .sub-menu .menu-link,.ast-desktop .main-header-menu.submenu-with-border .children .menu-link{border-bottom-width:0px;border-style:solid;border-color:#eaeaea;}@media (min-width:922px){.main-header-menu .sub-menu .menu-item.ast-left-align-sub-menu:hover > .sub-menu,.main-header-menu .sub-menu .menu-item.ast-left-align-sub-menu.focus > .sub-menu{margin-left:-0px;}}.ast-small-footer{border-top-style:solid;border-top-width:0;border-top-color:#7a7a7a;}.ast-small-footer-wrap{text-align:center;}@media (max-width:920px){.ast-404-layout-1 .ast-404-text{font-size:100px;font-size:5.5555555555556rem;}}#masthead .ast-container,.ast-header-breadcrumb .ast-container{max-width:100%;padding-left:35px;padding-right:35px;}@media (max-width:921px){#masthead .ast-container,.ast-header-breadcrumb .ast-container{padding-left:20px;padding-right:20px;}}#masthead .ast-container,.ast-header-breadcrumb .ast-container{max-width:100%;padding-left:35px;padding-right:35px;}@media (max-width:921px){#masthead .ast-container,.ast-header-breadcrumb .ast-container{padding-left:20px;padding-right:20px;}}.ast-breadcrumbs .trail-browse,.ast-breadcrumbs .trail-items,.ast-breadcrumbs .trail-items li{display:inline-block;margin:0;padding:0;border:none;background:inherit;text-indent:0;}.ast-breadcrumbs .trail-browse{font-size:inherit;font-style:inherit;font-weight:inherit;color:inherit;}.ast-breadcrumbs .trail-items{list-style:none;}.trail-items li::after{padding:0 0.3em;content:"\00bb";}.trail-items li:last-of-type::after{display:none;}h1,.entry-content h1,h2,.entry-content h2,h3,.entry-content h3,h4,.entry-content h4,h5,.entry-content h5,h6,.entry-content h6{color:#181e19;}.elementor-widget-heading .elementor-heading-title{margin:0;}.ast-header-break-point .main-header-bar{border-bottom-width:1px;}@media (min-width:922px){.main-header-bar{border-bottom-width:1px;}}.ast-safari-browser-less-than-11 .main-header-menu .menu-item, .ast-safari-browser-less-than-11 .main-header-bar .ast-masthead-custom-menu-items{display:block;}.main-header-menu .menu-item, .main-header-bar .ast-masthead-custom-menu-items{-js-display:flex;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-moz-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-moz-box-orient:vertical;-moz-box-direction:normal;-ms-flex-direction:column;flex-direction:column;}.main-header-menu > .menu-item > .menu-link{height:100%;-webkit-box-align:center;-webkit-align-items:center;-moz-box-align:center;-ms-flex-align:center;align-items:center;-js-display:flex;display:flex;}.ast-primary-menu-disabled .main-header-bar .ast-masthead-custom-menu-items{flex:unset;}
+</style>
+<link rel='stylesheet' id='astra-google-fonts-css'  href='//fonts.googleapis.com/css?family=Poppins%3A600&#038;display=fallback&#038;ver=2.6.0' media='all' />
+<link rel='stylesheet' id='astra-menu-animation-css'  href='https://megamontajespanama.com/wp-content/themes/astra/assets/css/minified/menu-animation.min.css?ver=2.6.0' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://megamontajespanama.com/wp-includes/css/dist/block-library/style.min.css?ver=5.5.9' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  href='https://megamontajespanama.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.9.1' media='all' />
+<link rel='stylesheet' id='elementor-animations-css'  href='https://megamontajespanama.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.0.13' media='all' />
+<link rel='stylesheet' id='elementor-frontend-legacy-css'  href='https://megamontajespanama.com/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.0.13' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='https://megamontajespanama.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.0.13' media='all' />
+<link rel='stylesheet' id='elementor-post-5-css'  href='https://megamontajespanama.com/wp-content/uploads/elementor/css/post-5.css?ver=1605746192' media='all' />
+<link rel='stylesheet' id='elementor-post-334-css'  href='https://megamontajespanama.com/wp-content/uploads/elementor/css/post-334.css?ver=1611533403' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.5.9' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css'  href='https://megamontajespanama.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.12.0' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='https://megamontajespanama.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.12.0' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-regular-css'  href='https://megamontajespanama.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.12.0' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-brands-css'  href='https://megamontajespanama.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.12.0' media='all' />
+<!--[if IE]>
+<script src='https://megamontajespanama.com/wp-content/themes/astra/assets/js/minified/flexibility.min.js?ver=2.6.0' id='astra-flexibility-js'></script>
+<script id='astra-flexibility-js-after'>
+flexibility(document.documentElement);
+</script>
+<![endif]-->
+<link rel="https://api.w.org/" href="https://megamontajespanama.com/wp-json/" /><link rel="alternate" type="application/json" href="https://megamontajespanama.com/wp-json/wp/v2/pages/334" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://megamontajespanama.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://megamontajespanama.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.5.9" />
+<link rel="canonical" href="https://megamontajespanama.com/" />
+<link rel='shortlink' href='https://megamontajespanama.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://megamontajespanama.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmegamontajespanama.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://megamontajespanama.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmegamontajespanama.com%2F&#038;format=xml" />
+<style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><link rel="icon" href="https://megamontajespanama.com/wp-content/uploads/2021/01/cropped-logo-O-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://megamontajespanama.com/wp-content/uploads/2021/01/cropped-logo-O-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://megamontajespanama.com/wp-content/uploads/2021/01/cropped-logo-O-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://megamontajespanama.com/wp-content/uploads/2021/01/cropped-logo-O-1-270x270.png" />
+</head>
+
+<body data-rsssl=1 itemtype='https://schema.org/WebPage' itemscope='itemscope' class="home page-template-default page page-id-334 wp-custom-logo ast-desktop ast-page-builder-template ast-no-sidebar astra-2.6.0 ast-header-custom-item-inside ast-full-width-primary-header ast-single-post ast-mobile-inherit-site-logo ast-inherit-site-logo-transparent elementor-default elementor-kit-5 elementor-page elementor-page-334">
+
+<div 
+	class="hfeed site" id="page">
+	<a class="skip-link screen-reader-text" href="#content">Ir al contenido</a>
+
+	
+	
+		<header
+			class="site-header ast-primary-submenu-animation-fade header-main-layout-1 ast-primary-menu-enabled ast-logo-title-inline ast-hide-custom-menu-mobile ast-menu-toggle-icon ast-mobile-header-inline" id="masthead" itemtype="https://schema.org/WPHeader" itemscope="itemscope" itemid="#masthead"		>
+
+			
+			
+<div class="main-header-bar-wrap">
+	<div class="main-header-bar">
+				<div class="ast-container">
+
+			<div class="ast-flex main-header-container">
+				
+		<div class="site-branding">
+			<div
+			class="ast-site-identity" itemtype="https://schema.org/Organization" itemscope="itemscope"			>
+				<span class="site-logo-img"><a href="https://megamontajespanama.com/" class="custom-logo-link" rel="home" aria-current="page"><img width="300" height="67" src="https://megamontajespanama.com/wp-content/uploads/2020/10/cropped-Logo-actualizado-300x67.png" class="custom-logo" alt="Mega Montajes" srcset="https://megamontajespanama.com/wp-content/uploads/2020/10/cropped-Logo-actualizado-300x67.png 300w, https://megamontajespanama.com/wp-content/uploads/2020/10/cropped-Logo-actualizado.png 668w" sizes="(max-width: 300px) 100vw, 300px" /></a></span>			</div>
+		</div>
+
+		<!-- .site-branding -->
+				<div class="ast-mobile-menu-buttons">
+
+			
+					<div class="ast-button-wrap">
+			<button type="button" class="menu-toggle main-header-menu-toggle  ast-mobile-menu-buttons-minimal "  aria-controls='primary-menu' aria-expanded='false'>
+				<span class="screen-reader-text">Menú principal</span>
+				<span class="menu-toggle-icon"></span>
+							</button>
+		</div>
+			
+			
+		</div>
+			<div class="ast-main-header-bar-alignment"><div class="main-header-bar-navigation"><nav class="ast-flex-grow-1 navigation-accessibility" id="site-navigation" aria-label="Navegación del sitio" itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope"><div class="main-navigation"><ul id="primary-menu" class="main-header-menu ast-nav-menu ast-flex ast-justify-content-flex-end  submenu-with-border astra-menu-animation-fade "><li id="menu-item-465" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-334 current_page_item menu-item-465"><a href="https://megamontajespanama.com/" aria-current="page" class="menu-link">Inicio</a></li>
+<li id="menu-item-466" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-466"><a href="https://megamontajespanama.com/nosotros/" class="menu-link">Nosotros</a></li>
+<li id="menu-item-555" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-555"><a href="https://megamontajespanama.com/servicios/" class="menu-link">Servicios en la Industria</a></li>
+<li id="menu-item-676" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-676"><a href="https://megamontajespanama.com/servicios-en-la-construccion/" class="menu-link">Servicios en la Construcción</a></li>
+<li id="menu-item-529" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-529"><a href="https://megamontajespanama.com/proyectos/" class="menu-link">Proyectos</a></li>
+<li id="menu-item-606" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-606"><a href="https://megamontajespanama.com/contacto/" class="menu-link">Contacto</a></li>
+</ul></div></nav></div></div>			</div><!-- Main Header Container -->
+		</div><!-- ast-row -->
+			</div> <!-- Main Header Bar -->
+</div> <!-- Main Header Bar Wrap -->
+
+			
+		</header><!-- #masthead -->
+
+		
+	
+	
+	<div id="content" class="site-content">
+
+		<div class="ast-container">
+
+		
+
+	<div id="primary" class="content-area primary">
+
+		
+					<main id="main" class="site-main">
+
+				
+					
+					
+
+<article 
+	class="post-334 page type-page status-publish ast-article-single" id="post-334" itemtype="https://schema.org/CreativeWork" itemscope="itemscope">
+
+	
+	<header class="entry-header ast-header-without-markup">
+
+		
+			</header><!-- .entry-header -->
+
+	<div class="entry-content clear" 
+		itemprop="text"	>
+
+		
+				<div data-elementor-type="wp-page" data-elementor-id="334" class="elementor elementor-334" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-1507b1e5 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1507b1e5" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-deb8dd3" data-id="deb8dd3" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-14a2ffe elementor-align-center elementor-absolute elementor-widget elementor-widget-button" data-id="14a2ffe" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://megamontajespanama.com/proyectos/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Conoce Nuestros Proyectos</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-f763394 elementor-section-content-middle elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="f763394" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-2d336cad" data-id="2d336cad" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-589330c1 elementor-widget elementor-widget-image" data-id="589330c1" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="584" height="217" src="https://megamontajespanama.com/wp-content/uploads/2020/11/Desarrollo-de-Proyectos.jpg" class="attachment-2048x2048 size-2048x2048" alt="" loading="lazy" srcset="https://megamontajespanama.com/wp-content/uploads/2020/11/Desarrollo-de-Proyectos.jpg 584w, https://megamontajespanama.com/wp-content/uploads/2020/11/Desarrollo-de-Proyectos-300x111.jpg 300w" sizes="(max-width: 584px) 100vw, 584px" />											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-416aaf7c" data-id="416aaf7c" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-7e5a88f8 elementor-widget elementor-widget-heading" data-id="7e5a88f8" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Nuestra Empresa</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3eee59a8 elementor-widget elementor-widget-text-editor" data-id="3eee59a8" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p><span style="color: #000000; font-size: 16px; font-style: normal; font-weight: 300; text-align: justify;">Somos una empresa panameña que brinda servicios en el área de la ingeniería civil, mecánica y eléctrica, alineada a las normas de seguridad industrial.</span></p><p>Contamos con personal altamente calificado para el desarrollo de proyectos civiles e industriales.</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-d8a4b20 elementor-align-left elementor-widget elementor-widget-button" data-id="d8a4b20" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://megamontajespanama.com/nosotros/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">LEER MÁS</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-4c24fe9f elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4c24fe9f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2bc3345f" data-id="2bc3345f" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-663592d7 elementor-widget elementor-widget-heading" data-id="663592d7" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Nuestros Servicios</h4>		</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-1bba7fbd elementor-section-content-middle elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="1bba7fbd" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-48706625" data-id="48706625" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-ef54b50 elementor-widget elementor-widget-image" data-id="ef54b50" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="1024" height="576" src="https://megamontajespanama.com/wp-content/uploads/2020/11/transicion02-31052017-1024x576.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://megamontajespanama.com/wp-content/uploads/2020/11/transicion02-31052017-1024x576.png 1024w, https://megamontajespanama.com/wp-content/uploads/2020/11/transicion02-31052017-300x169.png 300w, https://megamontajespanama.com/wp-content/uploads/2020/11/transicion02-31052017-768x432.png 768w, https://megamontajespanama.com/wp-content/uploads/2020/11/transicion02-31052017-1536x864.png 1536w, https://megamontajespanama.com/wp-content/uploads/2020/11/transicion02-31052017-2048x1152.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-1e22a60b elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="1e22a60b" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Sector Industrial</h3><p class="elementor-image-box-description">Somos especialistas en brindar servicios de mantenimiento industrial, montaje de equipos, fabricación de tanques y estructuras metálicas y soldadura en acero inoxidable</p></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-947ac60 elementor-align-center elementor-widget elementor-widget-button" data-id="947ac60" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://megamontajespanama.com/servicios/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Leer Más</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-4ca1998d" data-id="4ca1998d" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-a3dbccb elementor-widget elementor-widget-image" data-id="a3dbccb" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="900" height="600" src="https://megamontajespanama.com/wp-content/uploads/2020/11/Estructura-Metalica.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://megamontajespanama.com/wp-content/uploads/2020/11/Estructura-Metalica.png 900w, https://megamontajespanama.com/wp-content/uploads/2020/11/Estructura-Metalica-300x200.png 300w, https://megamontajespanama.com/wp-content/uploads/2020/11/Estructura-Metalica-768x512.png 768w" sizes="(max-width: 900px) 100vw, 900px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-5f115a8d elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="5f115a8d" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Sector de la Construcción</h3><p class="elementor-image-box-description">Desarrollamos proyectos residenciales y comerciales, cumpliendo siempre con las normas de construcción panameñas y estándares de seguridad industrial</p></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-32c0882a elementor-align-center elementor-widget elementor-widget-button" data-id="32c0882a" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://megamontajespanama.com/servicios-en-la-construccion/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Leer Más</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-aec90cf elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="aec90cf" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-288aabc" data-id="288aabc" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-299ab35 elementor-widget elementor-widget-heading" data-id="299ab35" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Nuestros Proyectos</h2>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-d6e4d77 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d6e4d77" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7e1b23e" data-id="7e1b23e" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-d58a749 elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-id="d58a749" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;navigation&quot;:&quot;dots&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper">
+				<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://megamontajespanama.com/wp-content/uploads/2020/11/image1-1-1024x576.jpeg" alt="Confección de tanque en acero inoxidable 316L para el almacenamiento de agua potable" /><figcaption class="elementor-image-carousel-caption">Confección de tanque en acero inoxidable 316L para el almacenamiento de agua potable</figcaption></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://megamontajespanama.com/wp-content/uploads/2020/11/IMG-20170807-WA0007-1024x576.jpg" alt="Fabricación de plataforma para compresor de 13 toneladas" /><figcaption class="elementor-image-carousel-caption">Fabricación de plataforma para compresor de 13 toneladas</figcaption></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://megamontajespanama.com/wp-content/uploads/2020/11/WhatsApp-Image-2017-06-01-at-1.00.55-PM-1024x575.jpeg" alt="Confección de plataformas, tanques y tolvas en acero inoxidable" /><figcaption class="elementor-image-carousel-caption">Confección de plataformas, tanques y tolvas en acero inoxidable</figcaption></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://megamontajespanama.com/wp-content/uploads/2020/11/PHOTO-2018-10-25-11-30-52.jpg" alt="Confección de tanques de acero de 10,000 y 12,000 galones" /><figcaption class="elementor-image-carousel-caption">Confección de tanques de acero de 10,000 y 12,000 galones</figcaption></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://megamontajespanama.com/wp-content/uploads/2021/01/IMG-20190212-WA0000-e1609720898834-1024x491.jpg" alt="Construcción de muro perimetral y portón automático con sistema de louvers" /><figcaption class="elementor-image-carousel-caption">Construcción de muro perimetral y portón automático con sistema de louvers</figcaption></figure></div>			</div>
+												<div class="swiper-pagination"></div>
+													</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-9ccc46d elementor-align-center elementor-widget elementor-widget-button" data-id="9ccc46d" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://megamontajespanama.com/proyectos/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">VER NUESTROS PROYECTOS</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-8d9a540 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8d9a540" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-692888a" data-id="692888a" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-a6185c2 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="a6185c2" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-f8fa660 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f8fa660" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2fd4a9b" data-id="2fd4a9b" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-222f29e elementor-widget elementor-widget-heading" data-id="222f29e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Nuestros Clientes</h2>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-cfa8d9a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="cfa8d9a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-6bf5557" data-id="6bf5557" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-a35cd91 elementor-widget elementor-widget-image" data-id="a35cd91" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="901" height="671" src="https://megamontajespanama.com/wp-content/uploads/2020/11/Estrella-Azul.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://megamontajespanama.com/wp-content/uploads/2020/11/Estrella-Azul.jpg 901w, https://megamontajespanama.com/wp-content/uploads/2020/11/Estrella-Azul-300x223.jpg 300w, https://megamontajespanama.com/wp-content/uploads/2020/11/Estrella-Azul-768x572.jpg 768w" sizes="(max-width: 901px) 100vw, 901px" />											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-97a9d46" data-id="97a9d46" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-1473333 elementor-widget elementor-widget-image" data-id="1473333" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="600" height="343" src="https://megamontajespanama.com/wp-content/uploads/2020/11/Coca-Cola-Femsa.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://megamontajespanama.com/wp-content/uploads/2020/11/Coca-Cola-Femsa.png 600w, https://megamontajespanama.com/wp-content/uploads/2020/11/Coca-Cola-Femsa-300x172.png 300w" sizes="(max-width: 600px) 100vw, 600px" />											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-2e7e0da" data-id="2e7e0da" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-fde03e9 elementor-widget elementor-widget-image" data-id="fde03e9" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="500" height="230" src="https://megamontajespanama.com/wp-content/uploads/2020/11/Dos-Pinos.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://megamontajespanama.com/wp-content/uploads/2020/11/Dos-Pinos.jpg 500w, https://megamontajespanama.com/wp-content/uploads/2020/11/Dos-Pinos-300x138.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-976cb45" data-id="976cb45" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-f768b63 elementor-absolute elementor-widget elementor-widget-image" data-id="f768b63" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img src="https://megamontajespanama.com/wp-content/uploads/2020/11/Bimbo-2.png" title="Bimbo 2" alt="Bimbo 2" />											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-0631a57" data-id="0631a57" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-9ea62f2 elementor-widget elementor-widget-image" data-id="9ea62f2" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="200" height="106" src="https://megamontajespanama.com/wp-content/uploads/2020/11/MCM.jpg" class="attachment-large size-large" alt="" loading="lazy" />											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-2815bf7" data-id="2815bf7" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-17ee70f elementor-widget elementor-widget-image" data-id="17ee70f" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="419" height="237" src="https://megamontajespanama.com/wp-content/uploads/2020/11/Panama-Blue.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://megamontajespanama.com/wp-content/uploads/2020/11/Panama-Blue.png 419w, https://megamontajespanama.com/wp-content/uploads/2020/11/Panama-Blue-300x170.png 300w" sizes="(max-width: 419px) 100vw, 419px" />											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-799fd14 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="799fd14" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-3d5dc96" data-id="3d5dc96" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-00ba448 elementor-widget elementor-widget-image" data-id="00ba448" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img src="https://megamontajespanama.com/wp-content/uploads/elementor/thumbs/La-Parmigiana-oymwasbrgyz5rai7clj15gdndswchfdbxan3vnz9k2.png" title="La Parmigiana" alt="La Parmigiana" />											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-2f97722" data-id="2f97722" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-47c1dcd elementor-widget elementor-widget-image" data-id="47c1dcd" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img src="https://megamontajespanama.com/wp-content/uploads/elementor/thumbs/Agua-Cristalina-oymwakt1yaov6et4kia0li9ympxerujh89f81gaexu.jpg" title="Agua Cristalina" alt="Agua Cristalina" />											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-5a0a8e6" data-id="5a0a8e6" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-b4cc755 elementor-widget elementor-widget-image" data-id="b4cc755" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img src="https://megamontajespanama.com/wp-content/uploads/elementor/thumbs/Salvamar-oymwapi8wgvasgmat2b5fz39lna8uc24wwonfu3g2q.jpg" title="Salvamar" alt="Salvamar" />											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-4053a15" data-id="4053a15" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-cd12ca7 elementor-widget elementor-widget-image" data-id="cd12ca7" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img src="https://megamontajespanama.com/wp-content/uploads/elementor/thumbs/Gelarti-oymwaixdkmmaj6vuvhgrgir1fy6ocgc0k0492wd7aa.png" title="Gelarti" alt="Gelarti" />											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-cbd4128" data-id="cbd4128" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-8556290 elementor-widget elementor-widget-image" data-id="8556290" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img src="https://megamontajespanama.com/wp-content/uploads/2020/11/Prolacsa.png" title="Prolacsa" alt="Prolacsa" />											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-2df42ec" data-id="2df42ec" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-b832302 elementor-widget elementor-widget-image" data-id="b832302" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img src="https://megamontajespanama.com/wp-content/uploads/elementor/thumbs/Pastas-Donadio-oymwanmkpdm6vxx39vmkmee3kh697pc14f2gehqtfc.jpg" title="Pastas Donadio" alt="Pastas Donadio" />											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-19e63f07 elementor-section-height-min-height elementor-section-items-bottom elementor-section-boxed elementor-section-height-default" data-id="19e63f07" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-199c613" data-id="199c613" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-344b13d1 elementor-widget elementor-widget-text-editor" data-id="344b13d1" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Somos la Empresa No. 1 en Ingeniería y Desarrollo de Proyectos en Panamá</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-57809cd5 elementor-widget elementor-widget-spacer" data-id="57809cd5" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7b7eaa5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7b7eaa5" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5446e3a" data-id="5446e3a" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-9c620f6 elementor-widget elementor-widget-heading" data-id="9c620f6" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Razones para elegirnos</h2>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-2fbedc60 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2fbedc60" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-23db35d" data-id="23db35d" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-7346ef40 elementor-view-default elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="7346ef40" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-grow" >
+				<i aria-hidden="true" class="fas fa-users-cog"></i>				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h4 class="elementor-icon-box-title">
+					<span ></span>
+				</h4>
+								<p class="elementor-icon-box-description">Entendemos tus necesidades y te brindamos la mejor solución</p>
+							</div>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-7e1c1c73" data-id="7e1c1c73" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-290ba20d elementor-view-default elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="290ba20d" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-grow" >
+				<i aria-hidden="true" class="fas fa-exclamation-triangle"></i>				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h4 class="elementor-icon-box-title">
+					<span ></span>
+				</h4>
+								<p class="elementor-icon-box-description">Cumplimos con las normas de seguridad industrial</p>
+							</div>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-65b52ec6" data-id="65b52ec6" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-43feaf89 elementor-view-default elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="43feaf89" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-grow" >
+				<i aria-hidden="true" class="far fa-lightbulb"></i>				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h4 class="elementor-icon-box-title">
+					<span ></span>
+				</h4>
+								<p class="elementor-icon-box-description">Innovación</p>
+							</div>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-880ac5f elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="880ac5f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-9898df3" data-id="9898df3" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-03f4343 elementor-view-default elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="03f4343" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-grow" >
+				<i aria-hidden="true" class="far fa-thumbs-up"></i>				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h4 class="elementor-icon-box-title">
+					<span ></span>
+				</h4>
+								<p class="elementor-icon-box-description">Calidad</p>
+							</div>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-aeea3c4" data-id="aeea3c4" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-1659bd7 elementor-view-default elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="1659bd7" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-grow" >
+				<i aria-hidden="true" class="fas fa-handshake"></i>				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h4 class="elementor-icon-box-title">
+					<span ></span>
+				</h4>
+								<p class="elementor-icon-box-description">Compromiso</p>
+							</div>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-109a5b5" data-id="109a5b5" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-ba751b7 elementor-view-default elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="ba751b7" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-grow" >
+				<i aria-hidden="true" class="fas fa-coins"></i>				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h4 class="elementor-icon-box-title">
+					<span ></span>
+				</h4>
+								<p class="elementor-icon-box-description">Precios competitivos</p>
+							</div>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7559271 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7559271" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-1681c72" data-id="1681c72" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-dfbfa57 elementor-view-default elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="dfbfa57" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-grow" >
+				<i aria-hidden="true" class="fas fa-user-lock"></i>				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h4 class="elementor-icon-box-title">
+					<span ></span>
+				</h4>
+								<p class="elementor-icon-box-description">Confidencialidad</p>
+							</div>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-5c1e752" data-id="5c1e752" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-0d1f7d1 elementor-view-default elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="0d1f7d1" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-grow" >
+				<i aria-hidden="true" class="fas fa-award"></i>				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h4 class="elementor-icon-box-title">
+					<span ></span>
+				</h4>
+								<p class="elementor-icon-box-description">Garantía</p>
+							</div>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-eff97d7" data-id="eff97d7" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-08fae5d elementor-view-default elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="08fae5d" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-grow" >
+				<i aria-hidden="true" class="far fa-clock"></i>				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h4 class="elementor-icon-box-title">
+					<span ></span>
+				</h4>
+								<p class="elementor-icon-box-description">Puntualidad</p>
+							</div>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1633972b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1633972b" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-48bbcd2c" data-id="48bbcd2c" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-38d2687b elementor-widget elementor-widget-text-editor" data-id="38d2687b" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p style="font-size: 15px; font-style: normal; font-weight: 300; color: #6e6b6b; font-family: Verdana, sans-serif;">DIRECCIÓN</p>
+<p style="font-size: 15px; font-style: normal; font-weight: 300; color: #6e6b6b; font-family: Verdana, sans-serif;">Panamá, Ciudad de Panamá,&nbsp;<span style="font-size: 15px; font-style: normal; font-weight: 300;">Calle Octava Pueblo Nuevo</span></p>
+<p style="font-size: 15px; font-style: normal; font-weight: 300; color: #6e6b6b; font-family: Verdana, sans-serif;">HORARIO</p>
+<p style="font-size: 15px; font-style: normal; font-weight: 300; color: #6e6b6b; font-family: Verdana, sans-serif;">Lunes a Sábado de 8:00 a.m. a 5:00 p.m.</p></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-6fbbe8a7" data-id="6fbbe8a7" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-342dd249 elementor-widget elementor-widget-text-editor" data-id="342dd249" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p style="font-size: 15px; font-style: normal; font-weight: 300; color: #6e6b6b; font-family: Verdana, sans-serif;">CONTACTO</p>
+<p style="font-size: 15px; font-style: normal; font-weight: 300; color: #6e6b6b; font-family: Verdana, sans-serif;">Teléfono: (+507) 296-4175</p>
+<p style="font-size: 15px; font-style: normal; font-weight: 300; color: #6e6b6b; font-family: Verdana, sans-serif;">Celular: (+507) 6714-6109</p>
+<p style="font-size: 15px; font-style: normal; font-weight: 300; color: #6e6b6b; font-family: Verdana, sans-serif;">Email: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="077775687e6264736874476a6260666a686973666d6274776669666a662964686a">[email&#160;protected]</a></p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-12397106 elementor-widget elementor-widget-text-editor" data-id="12397106" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-22ad4ba7" data-id="22ad4ba7" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-6b856e2c elementor-widget elementor-widget-text-editor" data-id="6b856e2c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p style="font-size: 15px; font-style: normal; font-weight: 300; color: #6e6b6b; font-family: Verdana, sans-serif;">SÍGUENOS</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-2c4abeec elementor-widget__width-initial elementor-shape-rounded elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="2c4abeec" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-social-icons-wrapper elementor-grid">
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-0617731" href="https://www.facebook.com/mega-montajes-123436091547645/" target="_blank">
+						<span class="elementor-screen-only">Facebook</span>
+						<i class="fab fa-facebook"></i>					</a>
+				</div>
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-61dc6a1" href="https://www.instagram.com/mega_montajes/?hl=es" target="_blank">
+						<span class="elementor-screen-only">Instagram</span>
+						<i class="fab fa-instagram"></i>					</a>
+				</div>
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-682519b" href="https://twitter.com/MegaMontajes" target="_blank">
+						<span class="elementor-screen-only">Twitter</span>
+						<i class="fab fa-twitter"></i>					</a>
+				</div>
+					</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		
+		
+		
+	</div><!-- .entry-content .clear -->
+
+	
+	
+</article><!-- #post-## -->
+
+
+					
+					
+				
+			</main><!-- #main -->
+			
+		
+	</div><!-- #primary -->
+
+
+			
+			</div> <!-- ast-container -->
+
+		</div><!-- #content -->
+
+		
+		
+		
+		<footer
+			class="site-footer" id="colophon" itemtype="https://schema.org/WPFooter" itemscope="itemscope" itemid="#colophon"		>
+
+			
+			
+<div class="ast-small-footer footer-sml-layout-1">
+	<div class="ast-footer-overlay">
+		<div class="ast-container">
+			<div class="ast-small-footer-wrap" >
+									<div class="ast-small-footer-section ast-small-footer-section-1" >
+						<div class="footer-primary-navigation"><ul id="menu-menu-principal" class="nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-334 current_page_item menu-item-465"><a href="https://megamontajespanama.com/" aria-current="page" class="menu-link">Inicio</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-466"><a href="https://megamontajespanama.com/nosotros/" class="menu-link">Nosotros</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-555"><a href="https://megamontajespanama.com/servicios/" class="menu-link">Servicios en la Industria</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-676"><a href="https://megamontajespanama.com/servicios-en-la-construccion/" class="menu-link">Servicios en la Construcción</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-529"><a href="https://megamontajespanama.com/proyectos/" class="menu-link">Proyectos</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-606"><a href="https://megamontajespanama.com/contacto/" class="menu-link">Contacto</a></li>
+</ul></div>					</div>
+				
+									<div class="ast-small-footer-section ast-small-footer-section-2" >
+						Copyright © <span class="ast-footer-site-title">Mega Montajes</span>					</div>
+				
+			</div><!-- .ast-row .ast-small-footer-wrap -->
+		</div><!-- .ast-container -->
+	</div><!-- .ast-footer-overlay -->
+</div><!-- .ast-small-footer-->
+
+			
+		</footer><!-- #colophon -->
+		
+		
+	</div><!-- #page -->
+
+	
+	<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script id='astra-theme-js-js-extra'>
+var astra = {"break_point":"921","isRtl":""};
+</script>
+<script src='https://megamontajespanama.com/wp-content/themes/astra/assets/js/minified/style.min.js?ver=2.6.0' id='astra-theme-js-js'></script>
+<script src='https://megamontajespanama.com/wp-includes/js/wp-embed.min.js?ver=5.5.9' id='wp-embed-js'></script>
+<script src='https://megamontajespanama.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<script src='https://megamontajespanama.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.0.13' id='elementor-frontend-modules-js'></script>
+<script src='https://megamontajespanama.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4' id='jquery-ui-position-js'></script>
+<script src='https://megamontajespanama.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1' id='elementor-dialog-js'></script>
+<script src='https://megamontajespanama.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+<script src='https://megamontajespanama.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6' id='swiper-js'></script>
+<script src='https://megamontajespanama.com/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.0.13' id='share-link-js'></script>
+<script id='elementor-frontend-js-before'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"3.0.13","is_static":false,"legacyMode":{"elementWrappers":true},"urls":{"assets":"https:\/\/megamontajespanama.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":334,"title":"Mega%20Montajes","excerpt":"","featuredImage":false}};
+</script>
+<script src='https://megamontajespanama.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.0.13' id='elementor-frontend-js'></script>
+<script src='https://megamontajespanama.com/wp-includes/js/underscore.min.js?ver=1.8.3' id='underscore-js'></script>
+<script id='wp-util-js-extra'>
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+</script>
+<script src='https://megamontajespanama.com/wp-includes/js/wp-util.min.js?ver=5.5.9' id='wp-util-js'></script>
+<script id='wpforms-elementor-js-extra'>
+var wpformsElementorVars = {"captcha_provider":"recaptcha","recaptcha_type":"v2"};
+</script>
+<script src='https://megamontajespanama.com/wp-content/plugins/wpforms-lite/assets/js/integrations/elementor/frontend.min.js?ver=1.6.4.1' id='wpforms-elementor-js'></script>
+			<script>
+			/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+			</script>
+			
+	</body>
+</html>
